@@ -3,7 +3,7 @@
 # Replace these variables with your actual Cloudflare API token and account ID
 API_TOKEN="$API_TOKEN"
 ACCOUNT_ID="$ACCOUNT_ID"
-PREFIX="Block ads"
+PREFIX="Block - OISD Ads"
 MAX_LIST_SIZE=1000
 MAX_LISTS=100
 MAX_RETRIES=10

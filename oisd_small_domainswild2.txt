@@ -4613,7 +4613,6 @@ adserver.raceonline.hu
 adserver.rtvdrenthe.nl
 adserver.rtvutrechtreclame.nl
 adserver.sciflicks.com
-adserver.sharewareonline.com
 adserver.sniffies.com
 adserver.sonicplug.com
 adserver.spankaway.com
@@ -17540,7 +17539,6 @@ divinerbalsamy.cfd
 divingamends.com
 divingsubmissionvocational.com
 divisiondrearilyunfiled.com
-divlnedates.net
 divorcebullion.qpon
 divorcedrefreshing.com
 divscripty.net

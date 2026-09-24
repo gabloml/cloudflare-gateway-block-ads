@@ -6113,6 +6113,7 @@ analytics.churnzero.net
 analytics.cincopa.com
 analytics.claudelog.com
 analytics.clic2buy.com
+analytics.click-or-die.ru
 analytics.clientify.net
 analytics.cloud.coveo.com
 analytics.cloud.unity3d.com
@@ -18930,6 +18931,7 @@ eventlog.gryphline.com
 eventlog.inspsearchapi.com
 eventlog.jackpot.de
 eventlog.outbrain.com
+eventlog.setka.ru
 eventlogger.soundcloud.com
 eventrecorder.cm.bloomberg.com
 events-api.gazetadopovo.com.br
@@ -27241,7 +27243,7 @@ jurysupposedshooter.com
 justad.mobi
 justenantrum.com
 justey.com
-justice.maybeoneday.ch
+justice.hls.lol
 justid.io
 justifytartexterior.com
 justingstrewn.cyou
@@ -31439,6 +31441,7 @@ metrics.spbtv.com
 metrics.svc.conholdate.cloud
 metrics.taimi.com
 metrics.ted.com
+metrics.temptcdn.com
 metrics.thefeed.com
 metrics.timewarnercable.com
 metrics.toysrus.com
